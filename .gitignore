@@ -2,4 +2,7 @@
 *.jade
 *.html
 
+fonts/
+styl/globals/_fonts.styl
+
 config.codekit
