@@ -1,6 +1,6 @@
 # skeletor.css
 That's what happens when you're writing unmantainable CSS:
-![skeletor](http://www.learnawesome.com/wp-content/uploads/2013/04/tumblr_m3zq1o5hb51rvhwwso1_250.gif)
+![skeletor](http://i.imgur.com/Mc987.gif)
 
 ## Motivation
 
