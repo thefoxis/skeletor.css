@@ -1,3 +1,5 @@
 *.css
 *.jade
 *.html
+
+config.codekit
