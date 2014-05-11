@@ -1,0 +1,25 @@
+/*--------------------------------------------------------------------
+*
+* BUTTONS
+*
+--------------------------------------------------------------------*/
+
+button
+  border: none
+
+button, .button
+  display: inline-block
+  font-size: $font-base
+  text-align: center
+  cursor: pointer
+  -webkit-appearance: none
+  -webkit-user-select: none
+  -moz-user-select: none
+  -ms-user-select: none
+  user-select: none
+
+  &:disabled
+    cursor: not-allowed
+
+  &:focus
+    outline: none
