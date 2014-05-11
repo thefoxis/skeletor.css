@@ -1,6 +1,6 @@
 # skeletor.css
-![skeletor](http://stream1.gifsoup.com/view2/1632356/smilin-skeletor-o.gif)
-* That's who you're going to meet when writing unmantainable CSS.
+That's what happens when you're writing unmantainable CSS:
+![skeletor](http://www.learnawesome.com/wp-content/uploads/2013/04/tumblr_m3zq1o5hb51rvhwwso1_250.gif)
 
 ## Motivation
 
@@ -35,6 +35,8 @@ I believe it's better to have a simple, bare bones set of modules (aka files tha
 ```
 
 Intentionally there is no compiled version so you can choose which modules you need or add more to `skeletor.styl` through `@import` rule.
+
+**Happy building!**
 
 ## License
 MIT
