@@ -36,7 +36,7 @@ I believe it's better to have a simple, bare bones set of modules (aka files tha
 
 Intentionally there is no compiled version so you can choose which modules you need or add more to `skeletor.styl` through `@import` rule.
 
-**Happy building!**
+Happy building
 
 ## License
 MIT
